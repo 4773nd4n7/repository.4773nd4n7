@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.4773nd4n7" name="4773nd4n7 Repository" version="1.0.2" provider-name="4773nd4n7">
+  <extension point="xbmc.addon.repository" name="4773nd4n7 Repository">
+    <dir>
+      <info compressed="false">https://4773nd4n7.github.io/repository.4773nd4n7/addons.xml</info>
+      <checksum>https://4773nd4n7.github.io/repository.4773nd4n7/addons.xml.md5</checksum>
+      <datadir zip="true">https://4773nd4n7.github.io/repository.4773nd4n7/</datadir>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary></summary>
+    <description>4773nd4n7 addons for Kodi.</description>
+    <platform>all</platform>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_US">4773nd4n7 addons for Kodi</summary>
+    <description lang="es_AR">Extensiones personalizadas para Kodi por 4773nd4n7</description>
+    <description lang="en_US">Custom addons for Kodi by 4773nd4n7</description>
+    <language>es en</language>
+    <platform>all</platform>
+    <license>MIT</license>
+    <forum>https://github.com/4773nd4n7/repository.4773nd4n7/issues</forum>
+    <source>https://github.com/4773nd4n7/repository.4773nd4n7</source>
+    <email>attendant51@gmail.com</email>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+      <!--
+			<banner></banner>
+			<clearlogo></clearlogo>
+			<screenshot></screenshot>
+			-->
+    </assets>
+  </extension>
+</addon>
